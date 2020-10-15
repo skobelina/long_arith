@@ -24,7 +24,8 @@ int main (void) {
     //DumpBigInt(A);
     BitLength (A);
     DumpBigInt(A);
-    
+
+    printf("Hello World");
 }    
    /* const char A = "8E6F43CAB43118F92ACCE9E445BA59AC6B50791EA9A69032096675DBD328454C";
 
